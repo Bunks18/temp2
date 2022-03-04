@@ -1,0 +1,16 @@
+
+You only need to run these commands once when setting up the repository
+
+git init - creates an connection to github
+
+git remote add origin [repo name] - tell github where you want to store your code
+
+Run these commands everytime you want to push code
+
+git status - check the difference btw local and github
+
+git add . - add everything on my local that is untracked . === all files
+
+git commit -m "commit message"
+
+git push origin master
