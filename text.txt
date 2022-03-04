@@ -11,6 +11,6 @@ git status - check the difference btw local and github
 
 git add . - add everything on my local that is untracked . === all files
 
-git commit -m "commit message"
+git commit -m "commit message" - add a message to the commit
 
-git push origin master
+git push origin master - actually send the code up to github
